@@ -1,0 +1,4 @@
+﻿  project4.cpp
+c:\users\ciscobandit\documents\visual studio 2015\projects\trackball\trackball\project4.cpp(466): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  trackBall.vcxproj -> C:\Users\CiscoBandit\documents\visual studio 2015\Projects\trackBall\Debug\trackBall.exe
+  trackBall.vcxproj -> C:\Users\CiscoBandit\documents\visual studio 2015\Projects\trackBall\Debug\trackBall.pdb (Partial PDB)
